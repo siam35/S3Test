@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siam\\Desktop\\S3LabTest1\\S3LabTest1\\S3LabTest1.csproj",
+      "projectUniqueName": "C:\\Project s3\\S3Test\\S3LabTest1\\S3LabTest1\\S3LabTest1.csproj",
       "projectName": "S3LabTest1",
-      "projectPath": "C:\\Users\\Siam\\Desktop\\S3LabTest1\\S3LabTest1\\S3LabTest1.csproj",
+      "projectPath": "C:\\Project s3\\S3Test\\S3LabTest1\\S3LabTest1\\S3LabTest1.csproj",
       "packagesPath": "C:\\Users\\Siam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siam\\Desktop\\S3LabTest1\\S3LabTest1\\obj\\",
+      "outputPath": "C:\\Project s3\\S3Test\\S3LabTest1\\S3LabTest1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

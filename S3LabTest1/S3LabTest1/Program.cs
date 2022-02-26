@@ -61,14 +61,14 @@ namespace S3LabTest1
                 //Console.WriteLine(totalOffpeekSec);
                 double pulse = totalpekSec / 20;
                 double OnPeekTotal = pulse / 0.30;
-                Console.WriteLine(OnPeekTotal + " paisa ");
+                Console.WriteLine(OnPeekTotal + " Taka ");
             }
             else
             {
                 double totalpekSec = (inputedTimeEnd - inputedTimeStart).TotalSeconds;
                 double pulse = totalpekSec / 20;
                 double offPeekTotal = pulse / 0.20;
-                Console.WriteLine(offPeekTotal + "paisa ");
+                Console.WriteLine(offPeekTotal + "Taka ");
 
             }
             
