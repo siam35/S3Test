@@ -1,0 +1,14 @@
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.exe
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.deps.json
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.runtimeconfig.json
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.runtimeconfig.dev.json
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.dll
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\bin\Debug\netcoreapp3.1\S3LabTest1.pdb
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.csproj.AssemblyReference.cache
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.AssemblyInfoInputs.cache
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.AssemblyInfo.cs
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.csproj.CoreCompileInputs.cache
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.dll
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.pdb
+C:\Users\Siam\Desktop\S3LabTest1\S3LabTest1\obj\Debug\netcoreapp3.1\S3LabTest1.genruntimeconfig.cache
